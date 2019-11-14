@@ -1,1 +1,1 @@
-web: sh setup.sh $$ streamlit run climbing_app.py
+web: streamlit run --server.enableCORS false --server.port $PORT climbing_app.py
