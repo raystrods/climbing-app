@@ -1,6 +1,5 @@
 '''
 def main():
-    '''My Climbing App'''
     
     st.title('Hello World')
     
